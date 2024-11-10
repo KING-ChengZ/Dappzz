@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Website untuk menyatakan perasaan kepada pasangan perempuan tercinta">
+    <title>Perasaan untukmu</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f7e7f4;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-image: url('https://example.com/romantic-background.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 100px 0;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 1.5rem;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .cta-button {
+            background-color: #ff6f61;
+            color: white;
+            font-size: 1.2rem;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        .cta-button:hover {
+            background-color: #e55d4b;
+        }
+        footer {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 1rem;
+            color: #555;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+        .heart {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Buat Bububb </h1>
+        <p>aku mau ngomong deh sm bubub tp lucuu</p>
+    </header>
+
+    <section class="message">
+        <h2>Alo bubb,</h2>
+        <p>
+            Pas pertama kali kita ketemu, aku ngerasa ada sesuatu yang istimewa di antara kita. Setiap tawa, setiap sentuhan, dan setiap momen yang kita lewati bersama membuat hatiku semakin yakin bahwa kamu adalah orang yang aku cari selama ini. 
+        </p>
+        <p>
+            Aku maw bubub ada teruss, dan jadi bagian dari semua cerita cerita bubub nantinya.
+        </p>
+        <p>
+            bubub tuu sumber utama aku hepii terus teruss.
+        </p>
+        <p><strong>bubb apa bubub maw udahan htsnya trs gantii jadi pacar aku bub?</strong></p>
+        <p><strong>- [Salwa Tasya]</strong></p>
+    </section>
+
+    <a href="mailto:email@pasangan.com" class="cta-button">Hubungi aku, Sayang</a>
+
+    <footer>
+        <p>LUVV BUBUBB❤️</p>
+    </footer>
+</body>
+</html>
